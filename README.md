@@ -9,11 +9,6 @@ Nível Sênior, para alunos do 4º ano do Ensino Técnico e alunos cursando pela
 
 ### Linguagem Escolhida: PYTHON
 
-
-### Exemplos (uso)
-Excelente ideia\! Entender cada componente é fundamental.
-Vamos criar uma "mini-tabelinha" com os comandos e conceitos mais comuns e importantes em Python para quem está começando na OBI, focando em como eles funcionam e para que servem.
-
 -----
 
 ### **Comandos e Conceitos Essenciais para OBI em Python**
