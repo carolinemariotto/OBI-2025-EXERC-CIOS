@@ -1,6 +1,6 @@
-import sys 
+import sys
 
-N, M = map(int,input(sys.stdin.readline).split()) 
+# Primeiro, precisamos criar uma matriz vazia para preenchê-la com os dados da entrada.
 matriz = []
 contador = 0 
 
